@@ -1,0 +1,5 @@
+yfinance
+mysql-connector-python
+pandas
+scikit-learn
+numpy
