@@ -82,4 +82,4 @@ This project focuses on regression; it does not provide buy/sell signals.
 
 ## Contact
 For questions or feedback, please contact:
-Your Name — your.email@example.com
+Your Name — anshupradhan214@gmail.com
